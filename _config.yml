@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name: "jung do"
+  name: "jungo"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "jungo_blog"
-  location: "Somewhedre"
+  location: "Somewhere"
   email:
   links:
     - label: "Email"
