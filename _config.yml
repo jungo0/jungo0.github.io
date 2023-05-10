@@ -18,7 +18,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "ko-KR"
 title: "jungo blog"
 title_separator: "|"
-subtitle: "🐥"
+subtitle: ""
 name: "jungo"
 description: "jungo의 블로그입니다"
 url: "https://jungo0.github.io"
