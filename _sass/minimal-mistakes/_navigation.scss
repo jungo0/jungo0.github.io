@@ -9,9 +9,9 @@
 .breadcrumbs {
   @include clearfix;
   margin: 0 auto;
-  max-width: 100%;
+  max-width: 400em;
   padding-left: 1em;
-  padding-right: 1em;
+  padding-right: 15em;
   font-family: $sans-serif;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -33,7 +33,7 @@
     }
 
     @include breakpoint($x-large) {
-      width: calc(100% - #{$right-sidebar-width});
+      width: calc(100% - #{$right-sidebar-width-narrow});
     }
   }
 

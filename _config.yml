@@ -25,7 +25,7 @@ url: "https://jungo0.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/logo.jpeg"
+logo: "/assets/images/nav.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "jungo "
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/logo.jpeg"
   bio: "jungo_blog"
   location: "Somewhere"
   email:
@@ -131,8 +131,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jungo0"
 
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "Velog"
+      url: "https://velog.io/@jungo_0"
       # url:
 
 # Reading Files
@@ -266,4 +266,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fa-duotone fa-list"
 date_format: "%Y-%m-%d"
