@@ -1,5 +1,5 @@
 ---
-title:  "[Github Blog] 파비콘(Favicon) 설정하기"
+title:  "[JavaScript] 파생성자 함수(Constructor Function)"
 categories: JavaScript
 tag: [생성자 함수, JavaScript]
 toc: true
