@@ -1,8 +1,8 @@
 ---
 title:  "[JavaScript] 생성자 함수(Constructor Function)"
-subtitle: "df"
+excerpt: "JavaScript에서 객체를 생성하기 위해 사용되는 특수한 함수인 생성자함수, 생성자 함수로 객체를 생성하기 위해서는 new 연산자를 호출"
 categories: JavaScript
-tag: [생성자 함수, JavaScript]
+tag: ["생성자 함수", "JavaScript"]
 toc: true
 author_profile: false
 

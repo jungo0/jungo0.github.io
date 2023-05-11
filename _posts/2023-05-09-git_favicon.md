@@ -1,5 +1,6 @@
 ---
 title:  "[Github Blog] 파비콘(Favicon) 설정하기"
+excerpt: "Github 블로그 커스타마이징, 파비콘(Favicon) 설정하기"
 categories: Github
 tag: [Github_Blog, Favicon]
 toc: true
