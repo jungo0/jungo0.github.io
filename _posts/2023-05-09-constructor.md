@@ -10,7 +10,7 @@ author_profile: false
 sidebar:
     nav: "counts"
 ---
-
+![](/assets/images/javascript.jpg)
 ## <span style='color:RGB(135, 203, 206)'> 생성자 함수
 
 > 생성자 함수는 JavaScript에서 객체를 생성하기 위해 사용되는 특수한 함수입니다. 생성자 함수로 객체를 생성하기 위해서는 new 연산자를 호출합니다.
