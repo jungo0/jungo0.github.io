@@ -10,10 +10,8 @@ author_profile: false
 sidebar:
     nav: "counts"
 ---
-
-
 # <span style='color:RGB(135, 203, 206)'>react-redux state 초기화
-
+![](/assets/images/react.png)
 
 redux 사용시 갑자기 내부 state가 초기화 되는 경우가 있습니다. 아래와 같은 경우 에러가 발생합니다.
 

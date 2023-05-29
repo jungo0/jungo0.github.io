@@ -11,7 +11,7 @@ sidebar:
     nav: "counts"
 ---
 
-
+![](/assets/images/react.png)
 # <span style='color:RGB(135, 203, 206)'>react로 구현하는 무한 스크롤
 
 - 주로 장바구니, 북마크 리스트를 구현할 때 무한스크롤이 사용되므로 유용하게 쓰인다.
