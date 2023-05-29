@@ -85,6 +85,18 @@ const ExChangePage = () => {
 ```
 - 이동한 페이지에서 state를 받는 방법은 `location` props를 이용하면 됩니다
 또는 `useLocation`을 사용합니다.
+```js
+function Success({ location }) {
+  return (
+    <div className="success">
+      제목:
+      {location.state.title}
+      내용:
+      {location.state.body}
+    </div>
+  );
+}
 
+```
 
 **외부 홈페이지로 경로를 이탈할 때만 `a` 태그를 쓰고 나머지 상황에서는 `Link` 쓰자!**
