@@ -1,6 +1,6 @@
 ---
 title:  "[React] react 무한스크롤 구현하기"
-excerpt: "react로 무한 스크롤 구현하는 방법에 대해 알아보자."
+excerpt: "react로 무한 스크롤 구현하는 방법에 대해 알아보자.주로 장바구니, 북마크 리스트를 구현할 때 무한스크롤이 사용되므로 유용하게 쓰인다."
 categories: React
 tag: [React, 무한스크롤]
 toc: true

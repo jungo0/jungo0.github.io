@@ -1,6 +1,6 @@
 ---
 title:  "[Github Blog] 파비콘(Favicon) 설정하기"
-excerpt: "Github 블로그 커스타마이징, 파비콘(Favicon) 설정하기"
+excerpt: "Github 블로그 커스타마이징, 파비콘(Favicon) 설정하기 파비콘(Favicon)이란, 인터넷 웹 브라우저의 주소창에 표시되는 대표 아이콘입니다."
 categories: Github
 tag: [Github_Blog, Favicon]
 toc: true

@@ -1,6 +1,6 @@
 ---
 title:  "[Github] git 명령 취소하기"
-excerpt: "Git에서 명령을 취소하는 여러 방법을 알아보자"
+excerpt: "Git에서 명령을 취소하는 여러 방법을 알아보자 여러가지 케이스 별로 대응 하는 git명령어 모음"
 categories: Github
 tag: [Github, Github명령취소 ]
 toc: true

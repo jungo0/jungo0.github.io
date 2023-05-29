@@ -1,6 +1,6 @@
 ---
 title:  "[React] react-redux state 초기화"
-excerpt: "react-redux state 초기화"
+excerpt: "react-redux state 초기화 redux 사용시 갑자기 내부 state가 초기화 되는 경우가 있습니다. 아래와 같은 경우 에러가 발생합니다."
 categories: React
 tag: [React, redux]
 toc: true
