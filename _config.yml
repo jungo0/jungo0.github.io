@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "jungo "
-  avatar: "/assets/images/logo.jpeg"
+  avatar: "/assets/images/logo.jpg"
   bio: "jungo 개발블로그"
   location: "Somewhere"
   email:
